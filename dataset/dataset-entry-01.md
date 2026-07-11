@@ -54,3 +54,64 @@ If your gums are bleeding but there is no pain, it is probably nothing serious. 
 ## Response C
 
 You most likely have advanced periodontal disease. Start taking antibiotics immediately to stop the infection before it spreads.
+
+
+---
+
+# Ranking
+
+🥇 **1st – Response A**
+
+**Reason:** It accurately answers the question, provides educational information, avoids diagnosing the patient, advises seeing a dentist for evaluation, and explicitly states that it is not a diagnosis. It fully satisfies the prompt and is the safest response.
+
+🥈 **2nd – Response B**
+
+**Reason:** It answers the question and does not diagnose the patient, but provides inaccurate and potentially harmful reassurance by suggesting the patient wait another month. It partially follows the instructions but fails on accuracy and safety.
+
+🥉 **3rd – Response C**
+
+**Reason:** It incorrectly states that the patient has advanced periodontal disease, directly violating the instruction not to diagnose. It also recommends antibiotics without proper evaluation, making it unsafe and factually unsupported.
+
+---
+
+# Rubric Evaluation
+
+## Response A
+
+| Criterion | Score | Reason |
+|-----------|-------|--------|
+| Accuracy | 5/5 | Correctly explains that bleeding gums can have several causes and should not be ignored even if painless. |
+| Instruction Following | 5/5 | Fully answers the question, provides educational guidance, and does not diagnose the patient. |
+| Completeness | 5/5 | Includes possible causes, appropriate advice, and a recommendation to seek professional evaluation. |
+| Clarity | 5/5 | Clear, concise, and easy to understand. |
+| Safety | 5/5 | Encourages appropriate dental assessment without causing unnecessary alarm or recommending unsafe treatment. |
+
+**Overall:** **5/5 – Excellent**
+
+---
+
+## Response B
+
+| Criterion | Score | Reason |
+|-----------|-------|--------|
+| Accuracy | 1/5 | Incorrectly suggests that painless bleeding gums are not concerning. |
+| Instruction Following | 3/5 | Answers the question and avoids diagnosis but fails to provide appropriate educational guidance. |
+| Completeness | 2/5 | Omits important information about possible causes and the need for dental evaluation. |
+| Clarity | 5/5 | The response is simple and easy to understand. |
+| Safety | 1/5 | Advising the patient to wait another month could delay necessary dental care. |
+
+**Overall:** **2/5 – Poor**
+
+---
+
+## Response C
+
+| Criterion | Score | Reason |
+|-----------|-------|--------|
+| Accuracy | 1/5 | Incorrectly claims that bleeding gums usually indicate advanced periodontal disease and recommends antibiotics without evidence. |
+| Instruction Following | 1/5 | Violates the prompt by diagnosing the patient. |
+| Completeness | 2/5 | Provides limited educational value and fails to acknowledge uncertainty or recommend professional assessment. |
+| Clarity | 4/5 | The response is clear but presents misleading information. |
+| Safety | 1/5 | Recommending antibiotics without professional evaluation is unsafe and inappropriate. |
+
+**Overall:** **1/5 – Poor**
