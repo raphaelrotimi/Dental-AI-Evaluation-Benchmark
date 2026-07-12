@@ -1,5 +1,5 @@
 
-# Dataset Entry 1
+# Dataset Entry 001
 
 > This dataset entry evaluates three candidate AI responses to a dental healthcare prompt using a structured rubric for accuracy, instruction following, completeness, clarity, and safety.
 
