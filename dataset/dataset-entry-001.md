@@ -26,7 +26,7 @@ v1.0
 - Clinical Safety
 - Factual Accuracy
 - Response Completeness
-- Clarity
+-Clarity
 
 
 ---
