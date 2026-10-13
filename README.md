@@ -184,7 +184,7 @@ This project is released under the MIT License.
 
 **Rotimi Raphael**
 
-Registered Dental Technologist | AI Evaluator | Prompt Engineer | LLM Evaluation Specialist
+Computer Science Graduate | Registered Dental Technologist | AI Evaluator | Prompt Engineer | LLM Evaluation Specialist
 
 ---
 
